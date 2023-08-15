@@ -37,21 +37,21 @@ body  {
     border-radius: 50%;
 }
 
-.blue-orbit {
+.aqua-orbit {
     width: 165px;
     height: 165px;
     border: 1px solid aqua;
     -webkit-animation: spin3D 3s linear .2s infinite;
 }
 
-.green-orbit {
+.palevioletred-orbit {
     width: 120px;
     height: 120px;
     border: 1px solid palevioletred;
     -webkit-animation: spin3D 2s linear 0s infinite;
 }
 
-.red-orbit {
+.gold-orbit {
     width: 90px;
     height: 90px;
     border: 1px solid gold;
